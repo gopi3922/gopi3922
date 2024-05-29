@@ -8,7 +8,7 @@
 
   
 
-# Gopinath G - Full Stack Developer 👨‍💻
+# Gopinath G - Software Engineer 👨‍💻
 
 Hey there! Welcome to my GitHub profile! I'm Gopinath, graduated at KSR Institute for Engineering and Technology, Trichengode,Namakkal.
 
@@ -16,11 +16,11 @@ Hey there! Welcome to my GitHub profile! I'm Gopinath, graduated at KSR Institut
 
 I am a passionate Software Engineer with a strong background in building robust and visually engaging web applications. Constantly exploring the dynamic world of software development, here are some key points about me:
 
-🔨 Problem-solving is my forte, with proficiency in Python, HTML, and CSS.
-🌐 Experienced in creating high-quality web applications using HTML and CSS.
-📊 Skilled in using Office 365 and Excel for data management and analysis.
-🧠 Actively exploring the realm of machine learning, focusing on image tamper detection and recovery.
-📈 Demonstrated success in migrating on-premises MySQL databases to the cloud for enhanced scalability and efficiency.
+- 🔨 Problem-solving is my forte, with proficiency in Python, HTML, and CSS.
+- 🌐 Experienced in creating high-quality web applications using HTML and CSS.
+- 📊 Skilled in using Office 365 and Excel for data management and analysis.
+- 🧠 Actively exploring the realm of machine learning, focusing on image tamper detection and recovery.
+- 📈 Demonstrated success in migrating on-premises MySQL databases to the cloud for enhanced scalability and efficiency.
 
 ## Interests and Hobbies 🎯
 
@@ -41,23 +41,18 @@ Keep calm and code on! 😄🚀
 <h2 align="center">Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=python" />
   </a>
 </p>
 
 <h2 align="center">Development Tools </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,nodejs,express,mysql,mongodb,php" />
+    <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
 </p>
  
-<h2 align="center">Platform, Services and Others </h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,vercel,heroku,netlify,vscode,linux,github,postman,selenium,eclipse,xd,pr,figma" />
-  </a>
-</p>
+
 
 
 <br/>  
