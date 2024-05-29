@@ -10,23 +10,22 @@
 
 # Gopinath G - Full Stack Developer 👨‍💻
 
-Hey there! Welcome to my GitHub profile! I'm Logeshwaran, a Final Year Student at College of Engineering Guindy, Anna University, Chennai.
+Hey there! Welcome to my GitHub profile! I'm Gopinath, graduated at KSR Institute for Engineering and Technology, Trichengode,Namakkal.
 
 ## About Me 📝
 
-I have a passion for building awesome websites and mobile applications, and I'm constantly exploring the ever-evolving world of software development. Here are some key points about me:
+I am a passionate Software Engineer with a strong background in building robust and visually engaging web applications. Constantly exploring the dynamic world of software development, here are some key points about me:
 
-- 🔨 Problem-solving is my forte, and I love working with C++ and Java.
-- 🌐 For web development, I'm well-versed in the MERN stack (MongoDB, Express.js, React.js, Node.js).
-- 📱 When it comes to cross-platform mobile development, I've got a knack for React Native.
-- 🧠 I'm also exploring the exciting realm of machine learning, eager to discover the boundless opportunities it offers.
+🔨 Problem-solving is my forte, with proficiency in Python, HTML, and CSS.
+🌐 Experienced in creating high-quality web applications using HTML and CSS.
+📊 Skilled in using Office 365 and Excel for data management and analysis.
+🧠 Actively exploring the realm of machine learning, focusing on image tamper detection and recovery.
+📈 Demonstrated success in migrating on-premises MySQL databases to the cloud for enhanced scalability and efficiency.
 
 ## Interests and Hobbies 🎯
 
 Aside from coding, I have other interests and hobbies too! When I'm not deeply immersed in lines of code, you might find me:
 
-- 📝 I'm a blogger and love posting blogs on various tech topics.
-- 🎥 I'm also a YouTuber, where I post gaming videos in my free time.
 - ⚽️ Indulging in a friendly game of football with friends.
 
 ## Let's Connect! 🤝
@@ -79,18 +78,15 @@ Keep calm and code on! 😄🚀
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/logeshwaran-" target="_blank">
+<a href="www.linkedin.com/in/gopinath-g-14a974221" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/logeshsiva95" target="_blank">
+<a href="https://instagram.com/_gopi_cr7_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/logeshwaran95" target="_blank">
+<a href="https://github.com/gopi3922" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Logeshwaran395" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
 </div> 
 
 <br/>
@@ -103,24 +99,6 @@ Keep calm and code on! 😄🚀
 
 <br/>
 
-## Vibes Unleashed : A Journey through My Playlist
-
-<!--
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=logeshwaran95&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
-
-<br/> 
- 
--->
-
-
-
-  
-
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31sa2airhc76krdjpckbg7e3i42y&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/>  
 
 <!-- <div align="center">
 <img src="https://komarev.com/ghpvc/?username=logeshwaran95&&style=flat-square" align="center" />
